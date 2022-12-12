@@ -20,7 +20,11 @@
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
 <hr>
-<p align=center style="font-size:4vw"> ⚙️Languages & Tools</p>
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=1000&color=2CFF1E&center=true&vCenter=true&width=435&lines=%E2%9A%99%EF%B8%8F+Languages+%26+Tools)](https://git.io/typing-svg)
+
+</div>
 
 <div align=center>
 <a target="_blank" rel="noreferrer">
@@ -32,7 +36,11 @@
 <hr>
 </a>
 
-<p align=center style="font-size:4vw"> 📈Statistics</p>
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=1000&color=2CFF1E&center=true&vCenter=true&width=435&lines=%F0%9F%93%88Statistics)](https://git.io/typing-svg)
+
+</div>
 
 <div align=center>
 
@@ -46,7 +54,11 @@
 
 <hr>
 
-<p align=center style="font-size:4vw"> 📖Currently Learning</p>
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=1000&color=2CFF1E&center=true&vCenter=true&width=435&lines=%F0%9F%93%96Currently+Learning)](https://git.io/typing-svg)
+</div>
+
 <div align=center>
     <a>
         <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
