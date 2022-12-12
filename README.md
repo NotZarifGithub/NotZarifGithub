@@ -20,10 +20,10 @@
 
 <h2 align=center style="color:#2CFF1E;font-family:Monospace;"> Languages & Tools</h2>
 
-<a>
+<a target="_blank" rel="noreferrer">
     <img alt="Python" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
-<a>
+<a target="_blank" rel="noreferrer">
     <img alt="VsCode" height="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 <hr>
