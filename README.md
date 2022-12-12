@@ -44,7 +44,7 @@
 </div>
 
 <h2> Currently Learning</h2>
-<div align=center>
+<div>
     <a>
         <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
     <a>
