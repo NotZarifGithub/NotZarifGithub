@@ -22,12 +22,13 @@
 
 <h2 align=center> Languages & Tools</h2>
 
+<div align=center>
 <a target="_blank" rel="noreferrer">
     <img alt="Python" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
 <a target="_blank" rel="noreferrer">
     <img alt="VsCode" height="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
+</div>
 </a>
 
 <h2 align=center> Statistics</h2>
@@ -42,7 +43,7 @@
 
 </div>
 
-<h2 align=center> Currently Learning</h2>
+<h2> Currently Learning</h2>
 <div align=center>
     <a>
         <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
