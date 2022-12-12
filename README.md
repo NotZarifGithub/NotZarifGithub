@@ -61,9 +61,15 @@
 
 <div align=center>
     <a>
-        <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
+        <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/>
+    </a>
     <a>
-        <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge"/></a>
+        <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge"/>
+    </a>
     <a>
-        <img alt="Data Structures & Algorithm" src="https://custom-icon-badges.demolab.com/badge/-Data Structures & Algorithm-49592a?logo=The Algorithms&logoColor=white&style=for-the-badge"/></a>
+        <img alt="Data Structures & Algorithm" src="https://custom-icon-badges.demolab.com/badge/-Data Structures & Algorithm-49592a?logo=The Algorithms&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a>
+        <img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=black&style=for-the-badge"/>
+    </a>
 </div>
