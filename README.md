@@ -1,3 +1,4 @@
+
 ![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
 ![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
 ![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
@@ -5,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zarif.)](https://git.io/typing-svg) 
 
-<p align=center style="font-family:Monospace;"> Still Learning</p>
+<p align=center> Still Learning</p>
 <br>
 
 <p align="center">
@@ -17,9 +18,9 @@
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<hr>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-<h2 align=center style="color:#2CFF1E;font-family:Monospace;"> Languages & Tools</h2>
+<h2 align=center> Languages & Tools</h2>
 
 <div align=center>
 <a target="_blank" rel="noreferrer">
@@ -29,8 +30,8 @@
     <img alt="VsCode" height="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 </a>
-<hr>
-<h2 align=center style="color:#2CFF1E;font-family:Monospace;"> Statistics</h2>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<h2 align=center> Statistics</h2>
 
 <div align=center>
 
@@ -41,8 +42,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotZarifGitHub&layout=compact&theme=radical)
 
 </div>
-<hr>
-<h2 align=center style="color:#2CFF1E;font-family:Monospace;"> Currently Learning</h2>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<h2 align=center> Currently Learning</h2>
 <div align=center>
     <a>
         <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
