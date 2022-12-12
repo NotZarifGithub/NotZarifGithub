@@ -20,7 +20,7 @@
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
 <hr>
-<p align=center style="font-size:4vw"> Languages & Tools</p>
+<p align=center style="font-size:4vw"> ⚙️Languages & Tools</p>
 
 <div align=center>
 <a target="_blank" rel="noreferrer">
@@ -32,7 +32,7 @@
 <hr>
 </a>
 
-<p align=center style="font-size:4vw"> Statistics</p>
+<p align=center style="font-size:4vw"> 📈Statistics</p>
 
 <div align=center>
 
@@ -46,7 +46,7 @@
 
 <hr>
 
-<p align=center style="font-size:4vw"> Currently Learning</p>
+<p align=center style="font-size:4vw"> 📖Currently Learning</p>
 <div align=center>
     <a>
         <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
