@@ -5,7 +5,7 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&center=True&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zarif.)](https://git.io/typing-svg) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&center=True&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zarif.)
 
 </div>
 <p align=center> Still Learning</p>
@@ -19,7 +19,8 @@
     <a href="https://www.youtube.com/watch?v=hPr-Yc92qaY">
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
-asd
+<hr>
+<p align=center style="font-size:4vw"> Languages & Tools</p>
 
 <div align=center>
 <a target="_blank" rel="noreferrer">
@@ -28,9 +29,10 @@ asd
 <a target="_blank" rel="noreferrer">
     <img alt="VsCode" height="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+<hr>
 </a>
 
-<h2 align=center> Statistics</h2>
+<p align=center style="font-size:4vw"> Statistics</p>
 
 <div align=center>
 
@@ -42,8 +44,9 @@ asd
 
 </div>
 
-<h2 align=center> Currently Learning</h2>
-<br>
+<hr>
+
+<p align=center style="font-size:4vw"> Currently Learning</p>
 <div align=center>
     <a>
         <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/></a>
