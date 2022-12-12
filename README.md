@@ -29,7 +29,7 @@
 <a target="_blank" rel="noreferrer">
     <img alt="VsCode" height="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-<hr>
+____
 </a>
 
 <p align=center style="font-size:4vw"> 📈Statistics</p>
