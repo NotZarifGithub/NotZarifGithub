@@ -2,7 +2,8 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
 ![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&center=True&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zarif.)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zarif.)](https://git.io/typing-svg) 
 
 <p align=center style="font-family:Monospace;"> Still Learning</p>
 <br>
@@ -20,22 +21,24 @@
 
 <h2 align=center style="color:#2CFF1E;font-family:Monospace;"> Languages & Tools</h2>
 
+<div align=center>
 <a target="_blank" rel="noreferrer">
     <img alt="Python" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
 <a target="_blank" rel="noreferrer">
     <img alt="VsCode" height="45px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
 </a>
 <hr>
 <h2 align=center style="color:#2CFF1E;font-family:Monospace;"> Statistics</h2>
 
 <div align=center>
 
-[![Zarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotZarifGitHub&show_icons=true&theme=radical&include_all_commits=True)]
+![Zarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotZarifGitHub&show_icons=true&theme=radical&include_all_commits=True)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NotZarifGitHub&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=NotZarifGitHub&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotZarifGitHub&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotZarifGitHub&layout=compact&theme=radical)
 
 </div>
 <hr>
