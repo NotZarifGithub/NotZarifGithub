@@ -43,6 +43,7 @@
 
 </div>
 
+<br>
 <h2 align=center> Currently Learning</h2>
 <div align=center>
     <a>
