@@ -19,8 +19,7 @@
     <a href="https://www.youtube.com/watch?v=hPr-Yc92qaY">
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
-
-<h2 style="display: inline-block;">NO LINE align=center> Languages & Tools</h2>
+asd
 
 <div align=center>
 <a target="_blank" rel="noreferrer">
