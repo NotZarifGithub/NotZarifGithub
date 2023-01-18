@@ -72,4 +72,7 @@
     <a>
         <img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=black&style=for-the-badge"/>
     </a>
+    <a>
+        <img alt="React.Js" src="https://custom-icon-badges.demolab.com/badge/-React.Js-white?logo=React&logoColor=blue&style=for-the-badge"/>
+    </a>
 </div>
