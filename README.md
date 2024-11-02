@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/muhammad-zarif-b04a2223a/">
+    <a href="https://www.linkedin.com/">
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=flacko.programming@gmail.com&su=SUBJECT&body=BODY">
         <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
@@ -58,18 +58,6 @@
 
 <div align=center>
     <a>
-        <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/-HTML-e34c26?logo=html&logoColor=black&style=for-the-badge"/>
-    </a>
-    <a>
-        <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a>
         <img alt="Data Structures & Algorithm" src="https://custom-icon-badges.demolab.com/badge/-Data Structures & Algorithm-49592a?logo=The Algorithms&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a>
-        <img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=black&style=for-the-badge"/>
-    </a>
-    <a>
-        <img alt="React.Js" src="https://custom-icon-badges.demolab.com/badge/-React.Js-white?logo=React&logoColor=blue&style=for-the-badge"/>
     </a>
 </div>
