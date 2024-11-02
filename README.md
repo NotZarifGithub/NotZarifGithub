@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&center=True&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Zarif.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=2CFF1E&background=0E0E0E00&width=435&center=True&vCenter=True&lines=Hi+there+%F0%9F%91%8B%2C.)
 
 </div>
 <p align=center> Still Learning</p>
