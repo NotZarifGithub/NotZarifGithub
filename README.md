@@ -13,8 +13,6 @@
         <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=flacko.programming@gmail.com&su=SUBJECT&body=BODY">
         <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://www.youtube.com/watch?v=hPr-Yc92qaY">
-        <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Youtube-FF0000?logo=Youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
 <hr>
 <div align=center>
