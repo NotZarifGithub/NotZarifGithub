@@ -1,7 +1,4 @@
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
-![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
-![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello%20Hello%20Hello%20&width=1000&height=100)
 
 <div align=center>
 
